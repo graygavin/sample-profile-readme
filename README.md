@@ -16,4 +16,4 @@ I am a cyber analytics major at UTSA. I work at Discount Tire and enjoy powerlif
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/graygavin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gavin-gray-33bb622b2)
 
-_"Your sample quote here!"_
+_"Don't take criticism from someone you would not take advice from"_
